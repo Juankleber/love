@@ -1,0 +1,38 @@
+body {
+    background-color: #212121 ;
+}
+div {
+    text-align: center;
+}
+input#nsemana {
+    width: 40px;
+    height: 10px;
+}
+div#resp1 {
+    color: rgb(160, 53, 53);
+
+}
+footer{
+    text-align: center;
+    color: blanchedalmond;
+}
+
+section {
+    background-color: #301120;
+    box-shadow: 5px 3px 3px #210221;
+    font-style: italic;
+}
+
+header {
+    color:  white ;
+    text-align: center;
+}
+p#txt1 {
+    color: blanchedalmond;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    
+}
